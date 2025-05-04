@@ -1,4 +1,15 @@
-# Prospectus for Filigreen
+---
+name: Rock DAO
+tagline: [leave this, we’ll add it for you]
+number: [leave this, we’ll add it for you]
+site: https://rockdao.xyz
+logo: https://rockdao.xyz/logo.jpg
+authors: Joshua Tan <josh@filigreen.org>, John Garry <https://www.linkedin.com/in/555040123333424>
+request: 50000 USDC
+reviews: [leave this, we’ll add it for you]
+status: [leave this, we’ll add it for you]
+discussions-to: [leave this, we’ll add it for you]
+---
 
 <!--
 This document is intended to help us create a prospectus (i.e. loan application) for your business, which will be shared with the members of Shore of Filigreen LLC (or just “Filigreen”), an investment club.
@@ -13,18 +24,7 @@ The <!- ... -> brackets indicate text that will be disregarded when the file is 
 Note: after a round of private edits, this prospectus will be published online. If this is a problem for you, let us know by commenting here.
 -->
 
----
-name: Rock DAO
-tagline: [leave this, we’ll add it for you]
-number: [leave this, we’ll add it for you]
-site: https://rockdao.xyz
-logo: https://rockdao.xyz/logo.jpg
-authors: Joshua Tan <josh@filigreen.org>, John Garry <https://www.linkedin.com/in/555040123333424>
-request: 50000 USDC
-reviews: [leave this, we’ll add it for you]
-status: [leave this, we’ll add it for you]
-discussions-to: [leave this, we’ll add it for you]
----
+# Prospectus for Filigreen - Template
 
 ## About
 
