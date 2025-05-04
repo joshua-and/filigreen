@@ -9,6 +9,7 @@ Instructions:
 Yellow indicates things you should fill in / replace with your own information.
 Blue indicates things we will fill in or which we might change.
 <!-- text --> indicates text that will be disregarded when the file is displayed (but will remain in the raw file).
+-->
 
 <!--Note: after a round of private edits, this prospectus will be published online. If this is a problem for you, let us know by commenting here.-->
 
