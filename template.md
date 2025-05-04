@@ -1,14 +1,14 @@
 ---
 name: Rock DAO
-tagline: [leave this, we’ll add it for you]
-number: [leave this, we’ll add it for you]
+tagline: leave this, we’ll add it for you
+number: leave this, we’ll add it for you
 site: https://rockdao.xyz
 logo: https://rockdao.xyz/logo.jpg
 authors: Joshua Tan <josh@filigreen.org>, John Garry <https://www.linkedin.com/in/555040123333424>
 request: 50000 USDC
-reviews: [leave this, we’ll add it for you]
-status: [leave this, we’ll add it for you]
-discussions-to: [leave this, we’ll add it for you]
+reviews: leave this, we’ll add it for you
+status: leave this, we’ll add it for you
+discussions-to: leave this, we’ll add it for you
 ---
 
 <!--
