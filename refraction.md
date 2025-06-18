@@ -1,13 +1,3 @@
-<!--This document is intended to help us create a prospectus (i.e. loan application) for your business, which will be shared with the members of Shore of Filigreen LLC (or just “Filigreen”), an investment club.
-
-This form should take you around 20 minutes to fill out. If we need more detail, we’ll comment on this doc directly, and help you iterate it.
-
-Instructions: 
-Yellow indicates things you should fill in / replace with your own information. 
-Blue indicates things we will fill in or which we might change. 
-Text within <> brackets will be disregarded when the file is displayed (but will remain in the raw file). 
-Note: after a round of private edits, this prospectus will be published online. If this is a problem for you, let us know by commenting here.-->
-
 ---
 name: Refraction
 tagline: Building Culture On-Chain
@@ -20,6 +10,17 @@ reviews: [leave this, we’ll add it for you]
 status: In Review
 discussions-to: [leave this, we’ll add it for you]
 ---
+
+<!--This document is intended to help us create a prospectus (i.e. loan application) for your business, which will be shared with the members of Shore of Filigreen LLC (or just “Filigreen”), an investment club.
+
+This form should take you around 20 minutes to fill out. If we need more detail, we’ll comment on this doc directly, and help you iterate it.
+
+Instructions: 
+Yellow indicates things you should fill in / replace with your own information. 
+Blue indicates things we will fill in or which we might change. 
+Text within <> brackets will be disregarded when the file is displayed (but will remain in the raw file). 
+Note: after a round of private edits, this prospectus will be published online. If this is a problem for you, let us know by commenting here.-->
+
 ## About
 ### What does your business do? (200 characters or less)
 RefractionDAO builds events on chain globally.  We do production and creative programs with different organizations in Web3.  In 2025 we will also be launching our blockchain and token for events – $IRL.
